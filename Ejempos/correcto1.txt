@@ -1,0 +1,5 @@
+x1 = 3;
+while (x1) {
+  console.log(x1);
+  x1 = x1 - 1;
+}
